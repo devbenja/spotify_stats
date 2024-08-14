@@ -1,6 +1,6 @@
 const authEndpoint = 'https://accounts.spotify.com/authorize';
 const clientId = 'bce233e9db734d8cb81fa59eb9a25675'; 
-const redirectUri = 'http://localhost:3000/callback';
+const redirectUri = 'http://localhost:5173/callback';
 const scopes = [
     'user-top-read',
     'user-read-recently-played',
